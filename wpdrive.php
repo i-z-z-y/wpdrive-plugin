@@ -4,7 +4,7 @@
  * Description: Private, Dropbox-like file browser + multi-device sync (chunked uploads) with share links. Includes a local Python client.
  * Version: 1.0.0
  * Author: WPDrive
- * License: GPLv2 or later
+ * License: Proprietary
  */
 
 if (!defined('ABSPATH')) { exit; }

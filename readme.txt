@@ -4,7 +4,7 @@ Tags: file sync, private files, download, share link
 Requires at least: 6.0
 Tested up to: 6.6
 Stable tag: 1.0.0
-License: GPLv2 or later
+License: Proprietary (internal use only)
 
 WPDrive Sync provides:
 - Private file storage (tries ../wpdrive-data, falls back to wp-content/wpdrive-private on shared hosts)
@@ -18,3 +18,6 @@ Installation:
 2) WP Admin → WPDrive to configure storage & create shares
 3) Create a user with role "WPDrive Sync" and generate an Application Password
 4) Use the Python client to sync
+
+License:
+This plugin is proprietary and not licensed for public redistribution.
