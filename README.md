@@ -78,5 +78,18 @@ Create share links in **WP Admin -> WPDrive**:
 ## Optional extension: WPDrive Web Uploads
 The `wpdrive-web-uploads` plugin adds drag-and-drop uploads to the browser UI and to password-protected folder share pages. It writes proper WPDrive entries and change log rows so sync clients pick up new files.
 
+## Screenshots
+Admin settings page:
+![WPDrive admin settings](docs/screenshots/admin-settings.png)
+
+Browser shortcode page (with web uploads enabled):
+![WPDrive browser page](docs/screenshots/browser-page.png)
+
+Share link password prompt:
+![WPDrive share password](docs/screenshots/share-password.png)
+
+Share link folder view (with web uploads enabled):
+![WPDrive share page](docs/screenshots/share-page.png)
+
 ## License
 Proprietary. Internal use only. Not licensed for public redistribution.
